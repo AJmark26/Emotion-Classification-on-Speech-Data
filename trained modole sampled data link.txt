@@ -1,8 +1,0 @@
-## Ravdessnew.csv
-https://drive.google.com/file/d/1TZWc2e8M0nAGaZG61ot4j9NqSai8jsC_/view?usp=sharing
-
-## Emotion_Model.weights.h5
-https://drive.google.com/file/d/1psO6PYj764GF8qG3Ak9017u_wk6owq5s/view?usp=drive_link
-
-## Emotion_Model.h5
-https://drive.google.com/file/d/1dpJnI2KAEwgOtKpaUk6_77WG9-u9UX1k/view?usp=drive_link
